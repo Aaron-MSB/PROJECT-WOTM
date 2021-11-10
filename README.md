@@ -47,5 +47,5 @@ Visualisation
 ## User Interface sketches
 <img />![WOTMx1](https://user-images.githubusercontent.com/82576692/141163943-fa74d455-aaba-4046-96bb-dd45a358d14b.PNG)
 
-##Solution Roadmap
+## Solution Roadmap
 <img />![WOTM Solution Road Map](https://user-images.githubusercontent.com/82576692/141165080-f1b63fe0-293f-4a3e-b9ba-d4654d1a968f.png)
